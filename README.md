@@ -25,7 +25,7 @@ Make sure you have Node.js installed. You can download it from nodejs.org.
 
 
 # Installation
-Clone the repository (or download the code directly):
+Clone the repository (or download the code directly)
 
 Bash
 git clone <your-github-repo-link>
@@ -52,7 +52,6 @@ The quiz will present a question, and you'll need to enter the number correspond
 
 
 
-
 # 📁 Project Structure
 
 project.js: The main application logic for the quiz.
@@ -61,25 +60,10 @@ Contains the quiz questions, options, and correct answers.
 
 
 
-
 # 🛠️ Built With
 
 JavaScript
 Node.js
 prompt-sync (npm package for synchronous user input)
-
-# 💡 Future Enhancements
-Score Tracking: Keep a running tally of correct answers.
-User Feedback: Provide more descriptive feedback on correct/incorrect answers.
-Difficulty Levels: Categorize questions by difficulty.
-More Question Types: Support true/false or open-ended questions.
-Better Error Handling: More robust handling for invalid input or missing questions.json.
-
-
-
-
-# ✍️ Author
-Subrat Sharma/subrat89
-
 
 
